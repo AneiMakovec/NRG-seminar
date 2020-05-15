@@ -11,3 +11,7 @@ java -jar VFEGenerator.jar
 ```
 
 Pri izbiri datoteke na uporabniškem vmesniku, mora biti datoteka formata `.raw`.
+
+## Primer
+
+Datoteki `primer1.raw` in `primer2.raw` sta primera generirane datoteke.
